@@ -78,4 +78,3 @@ ddddocr_go.exe
 
 ---
 
-© 2025 ddddocr\_go 项目维护者
